@@ -19,12 +19,12 @@ We established motion trajectory data and collected time-series data for about 2
 
 ---
 ### Analysis-Behavior
-#### Joint Angle Feature
-- Calculate the angles of different body parts over time.
-- Measure the angle changes between two points at different times.
-- Track the angle changes of a single point every three frames.
-- Calculate the angle between the head and the X-axis.
-- Calculate the angle between the head and the Y-axis for every two frames.
+* #### Joint Angle Feature
+  * Calculate the angles of different body parts over time.
+  * Measure the angle changes between two points at different times.
+  * Track the angle changes of a single point every three frames.
+  * Calculate the angle between the head and the X-axis.
+  * Calculate the angle between the head and the Y-axis for every two frames.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3589bd21-5815-49d8-b773-17fcd90c4b87">
 </p>
@@ -32,24 +32,22 @@ We established motion trajectory data and collected time-series data for about 2
 <img src="https://github.com/user-attachments/assets/aa31fb24-8984-44c1-900a-97bef5ac0a3f" width="680" height="auto">
 </p>
 
-
-
-#### Curve Feature
+* #### Curve Feature
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f4c1dd59-acd9-4e96-b1cf-b5b6d3fdd949" width="350" height="auto">
 </p>
 
-#### Tail Area
+* #### Tail Area
 <p align="center">
 <img src="https://github.com/user-attachments/assets/25d467a6-87af-4761-a621-0f76166cd38e" width="300" height="auto">
 </p>
 
-#### Trajectory
+* #### Trajectory
 <p align="center">
 <img src="https://github.com/user-attachments/assets/53640227-59f4-48ea-96cb-aedeaf4b171e" width="900" height="auto">
 </p>
 
-#### Approximate Entropy (ApEn)
+* #### Approximate Entropy (ApEn)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c4832351-d640-4584-a1ac-768293942c5d" width="800" height="auto">
 </p>
